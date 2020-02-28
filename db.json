@@ -1,9 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
-    }
+    "requestData":{"checkData":{"paymnent_amount":0.0,"payment_change":0,"payment_type":0,"check_type":14}}
+    },
   ],
   "profile": {
     "name": "typicode"
